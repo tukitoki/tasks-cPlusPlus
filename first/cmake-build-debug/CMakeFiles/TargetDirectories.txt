@@ -1,0 +1,3 @@
+C:/c++/tasks-c++/first/cmake-build-debug/CMakeFiles/first.dir
+C:/c++/tasks-c++/first/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++/tasks-c++/first/cmake-build-debug/CMakeFiles/rebuild_cache.dir

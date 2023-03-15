@@ -1,0 +1,24 @@
+# ninja log v5
+16	256	7006138084242262	CMakeFiles/second.dir/Field.cpp.obj	48a56ebdb56a0a6a
+7	594	7006138087623008	CMakeFiles/second.dir/entity/Mole.cpp.obj	f8558299b5905017
+9	226	7006138083932193	CMakeFiles/second.dir/entity/Cottager.cpp.obj	f12701f7f25354af
+20	530	7006138086972864	CMakeFiles/second.dir/Game.cpp.obj	52a803bc4f0d6e9a
+3	472	7006138086402742	CMakeFiles/second.dir/main.cpp.obj	fbcfa8503154fa10
+594	746	7006138089023319	second.exe	6b70bff0ec48ea37
+13	458	7006138086262715	CMakeFiles/second.dir/GUI.cpp.obj	c6b1254a901f9b05
+1	271	7006143828659733	build.ninja	b6190b074a6810c
+26	519	7005948463800885	CMakeFiles/second.dir/utils/Generator.cpp.obj	df408584a9c37e61
+2	238	7006026399658008	CMakeFiles/second.dir/utils/Vector2D.cpp.obj	ee94e119b79b7b23
+18	259	7006146715299869	CMakeFiles/second.dir/utils/Vector2D.cpp.obj	e418715b2bea3305
+14	269	7006146715399890	CMakeFiles/second.dir/entity/Cottager.cpp.obj	940d69012c5eac8
+10	281	7006146715549920	CMakeFiles/second.dir/Field.cpp.obj	a891c471052eb23b
+26	467	7006146717400335	CMakeFiles/second.dir/GUI.cpp.obj	fef44f227da194ab
+3	468	7006146717410338	CMakeFiles/second.dir/main.cpp.obj	61e09b41a197f3ed
+31	563	7006146718370553	CMakeFiles/second.dir/utils/Generator.cpp.obj	94804dc86c7ee6f2
+7	573	7006146718480574	CMakeFiles/second.dir/entity/Mole.cpp.obj	1ca83dd9ef77e7ab
+22	625	7006146719000687	CMakeFiles/second.dir/Game.cpp.obj	96381524eb571a9b
+626	733	7006146720042341	second.exe	6b70bff0ec48ea37
+3	457	7006146911666990	CMakeFiles/second.dir/Game.cpp.obj	96381524eb571a9b
+457	552	7006146912607226	second.exe	6b70bff0ec48ea37
+2	319	7006147222126226	CMakeFiles/second.dir/main.cpp.obj	61e09b41a197f3ed
+319	417	7006147223086434	second.exe	6b70bff0ec48ea37

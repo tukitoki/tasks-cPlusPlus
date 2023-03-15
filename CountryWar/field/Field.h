@@ -6,8 +6,8 @@
 #define SECOND_FIELD_H
 
 #include <vector>
-#include "entity/Cottager.h"
-#include "entity/Mole.h"
+#include "../entity/Cottager.h"
+#include "../entity/Mole.h"
 
 using namespace std;
 

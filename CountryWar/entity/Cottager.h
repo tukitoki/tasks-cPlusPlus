@@ -8,7 +8,7 @@
 #include "Character.h"
 #include "../utils/Vector2D.h"
 #include "Mole.h"
-#include "../Field.h"
+#include "../field/Field.h"
 
 class Field;
 

@@ -6,8 +6,8 @@
 #define SECOND_GUI_H
 
 
-#include "Field.h"
-#include "Game.h"
+#include "../field/Field.h"
+#include "../game/Game.h"
 
 class GUI {
 public:

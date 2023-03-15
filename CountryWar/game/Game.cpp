@@ -4,7 +4,7 @@
 
 #include <iostream>
 #include "Game.h"
-#include "GUI.h"
+#include "../gui/GUI.h"
 #include <chrono>
 #include <thread>
 

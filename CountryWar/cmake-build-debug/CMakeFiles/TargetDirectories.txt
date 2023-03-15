@@ -1,3 +1,3 @@
-C:/c++/tasks-c++/CountryWar/cmake-build-debug/CMakeFiles/second.dir
-C:/c++/tasks-c++/CountryWar/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/c++/tasks-c++/CountryWar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/c++/tasks-cPlusPlus/CountryWar/cmake-build-debug/CMakeFiles/second.dir
+C:/c++/tasks-cPlusPlus/CountryWar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/c++/tasks-cPlusPlus/CountryWar/cmake-build-debug/CMakeFiles/rebuild_cache.dir

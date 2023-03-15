@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Game.h"
+#include "game/Game.h"
 
 void input(string name, int *field) {
     std::cout << name;

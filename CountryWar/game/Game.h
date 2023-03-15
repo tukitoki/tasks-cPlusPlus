@@ -5,8 +5,8 @@
 #ifndef SECOND_GAME_H
 #define SECOND_GAME_H
 
-#include "Field.h"
-#include "entity/Cottager.h"
+#include "../field/Field.h"
+#include "../entity/Cottager.h"
 
 class GUI;
 
